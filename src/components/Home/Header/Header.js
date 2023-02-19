@@ -7,7 +7,7 @@ import { BiMoviePlay } from "react-icons/bi";
 import { GiPerspectiveDiceFour } from "react-icons/gi";
 import { AiFillPhone } from "react-icons/ai";
 import { MdHome } from "react-icons/md"
-import MOVIECLUBLOGO from "../../../../public/img/MOVIECLUBLOGO.png"
+
 
 export default function Header() {
     return (
@@ -22,7 +22,7 @@ export default function Header() {
                     <Navbar key={expand} bg="light" expand={expand} className=" bg-dark">
                         <Container >
                             <Navbar.Brand className='' href="#">
-                                <img style={{ height: '65px', marginTop: '7px', width: '120px' }} className='img-fluid' src={MOVIECLUBLOGO} />
+                                <img style={{ height: '65px', marginTop: '7px', width: '120px' }} className='img-fluid' src='/img/MOVIECLUBLOGO.png' />
                             </Navbar.Brand>
                             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
                             <Navbar.Offcanvas
