@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.5888e462.css",
-    "main.js": "./static/js/main.bf6eef1e.js",
-    "static/media/Trailer_Background.jpg": "./static/media/Trailer_Background.a1b95b9c6639879a0794.jpg",
-    "static/media/Bg.jpg": "./static/media/Bg.4fd714b488b4b41ec7aa.jpg",
-    "static/media/t_poster2.jpg": "./static/media/t_poster2.61eff23c6eaf45e992a4.jpg",
-    "static/media/t_poster3.jpg": "./static/media/t_poster3.ae0dc8c466dc3fdde475.jpg",
-    "static/media/t_poster1.jpg": "./static/media/t_poster1.10c6bfd9202644c1de1f.jpg",
-    "static/media/download-banner-1100X350.jpg": "./static/media/download-banner-1100X350.996d4ac412bbbe70b9e6.jpg",
-    "static/media/t_poster.jpg": "./static/media/t_poster.6a0678f9e6557992ee11.jpg",
-    "index.html": "./index.html",
-    "main.5888e462.css.map": "./static/css/main.5888e462.css.map",
-    "main.bf6eef1e.js.map": "./static/js/main.bf6eef1e.js.map"
+    "main.css": "/Movie_Club/static/css/main.eebdbaf2.css",
+    "main.js": "/Movie_Club/static/js/main.51c062c1.js",
+    "static/media/Trailer_Background.jpg": "/Movie_Club/static/media/Trailer_Background.a1b95b9c6639879a0794.jpg",
+    "static/media/Bg.jpg": "/Movie_Club/static/media/Bg.4fd714b488b4b41ec7aa.jpg",
+    "static/media/t_poster2.jpg": "/Movie_Club/static/media/t_poster2.61eff23c6eaf45e992a4.jpg",
+    "static/media/t_poster3.jpg": "/Movie_Club/static/media/t_poster3.ae0dc8c466dc3fdde475.jpg",
+    "static/media/t_poster1.jpg": "/Movie_Club/static/media/t_poster1.10c6bfd9202644c1de1f.jpg",
+    "static/media/download-banner-1100X350.jpg": "/Movie_Club/static/media/download-banner-1100X350.996d4ac412bbbe70b9e6.jpg",
+    "static/media/t_poster.jpg": "/Movie_Club/static/media/t_poster.6a0678f9e6557992ee11.jpg",
+    "index.html": "/Movie_Club/index.html",
+    "main.eebdbaf2.css.map": "/Movie_Club/static/css/main.eebdbaf2.css.map",
+    "main.51c062c1.js.map": "/Movie_Club/static/js/main.51c062c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.5888e462.css",
-    "static/js/main.bf6eef1e.js"
+    "static/css/main.eebdbaf2.css",
+    "static/js/main.51c062c1.js"
   ]
 }
