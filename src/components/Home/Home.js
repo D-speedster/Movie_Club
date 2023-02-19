@@ -23,12 +23,12 @@ export default function Home() {
   )
   let [MoviesData2, SetMovie2] = useState(
     [
-      { id: 1, namePer: 'انتقام جویان : عصر التران', nameEn: 'Avengers: Age of Ultron', realase: '2015', poster: './img/poster4.png', rate: '8.4' },
-      { id: 2, namePer: 'انتفام جویان', nameEn: 'The Avengers', realase: '2012', poster: './img/poster3.png', rate: '8' },
-      { id: 3, namePer: 'انتفام جویان : جنگ بینهایت', nameEn: 'Avenger Infinity War', realase: '2019', poster: './img/poster2.png', rate: '8.5' },
-      { id: 4, namePer: 'مرذ آهنی', nameEn: 'Iron Man', realase: '2008', poster: './img/poster5.png', rate: '7.6' },
-      { id: 5, namePer: 'سپیادرمن : راهی به خانه نیست', nameEn: 'Spider-Man: No Way Home ', realase: '2021', poster: './img/poster7.jpg', rate: '8.0' },
-      { id: 6, namePer: 'کاپیتان مارول', nameEn: 'Captain Marvel ', realase: '2019', poster: './img/poster6.png', rate: '7.7' },
+      { id: 1, namePer: 'انتقام جویان : عصر التران', nameEn: 'Avengers: Age of Ultron', realase: '2015', poster: './img/poster4.png', rate: '8.4' , story : '' },
+      { id: 2, namePer: 'انتفام جویان', nameEn: 'The Avengers', realase: '2012', poster: './img/At Midnight.jpg', rate: '8' , story : '' },
+      { id: 3, namePer: 'انتفام جویان : جنگ بینهایت', nameEn: 'Avenger Infinity War', realase: '2019', poster: './img/poster2.png', rate: '8.5' , story : '' },
+      { id: 4, namePer: 'مرذ آهنی', nameEn: 'Iron Man', realase: '2008', poster: './img/poster5.png', rate: '7.6' , story : '' },
+      { id: 5, namePer: 'سپیادرمن : راهی به خانه نیست', nameEn: 'Spider-Man: No Way Home ', realase: '2021', poster: './img/poster7.jpg', rate: '8.0' , story : '' },
+      { id: 6, namePer: 'کاپیتان مارول', nameEn: 'Captain Marvel ', realase: '2019', poster: './img/poster6.png', rate: '7.7' , story : '' },
 
     ])
   let [BoxOffice, SetBoxOffice] = useState();
