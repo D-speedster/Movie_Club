@@ -27,16 +27,16 @@ export default function SliderMovie(props) {
                     onSwiper={(swiper) => console.log(swiper)}
                     breakpoints={{
                         "@0.00": {
-                            slidesPerView: 3,
+                            slidesPerView: 2,
                             spaceBetween: 10,
                         },
                         "@0.75": {
                             slidesPerView: 2,
-                            spaceBetween: 20,
+                            spaceBetween: 15,
                         },
                         "@1.00": {
                             slidesPerView: 2,
-                            spaceBetween: 40,
+                            spaceBetween: 25,
                         },
                         "@1.50": {
                             slidesPerView: 6,
