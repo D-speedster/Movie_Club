@@ -3,7 +3,7 @@ import { Col, Row, Container } from 'react-bootstrap'
 import './Latest_Trailers.css';
 import { BsPlayCircleFill } from 'react-icons/bs'
 
-const images = require.context("/public./img/Last_Trailer/", true)
+const images = require.context("./public/img/Last_Trailer/", true)
 const defaultImage = images.keys()[0].split('/')[1];
 console.log(`./img/${defaultImage}`)
 
