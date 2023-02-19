@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Movie_Club/static/css/main.eebdbaf2.css",
-    "main.js": "/Movie_Club/static/js/main.139a4eea.js",
+    "main.js": "/Movie_Club/static/js/main.ec5aa6a9.js",
     "static/media/Trailer_Background.jpg": "/Movie_Club/static/media/Trailer_Background.a1b95b9c6639879a0794.jpg",
     "static/media/Bg.jpg": "/Movie_Club/static/media/Bg.4fd714b488b4b41ec7aa.jpg",
     "static/media/t_poster2.jpg": "/Movie_Club/static/media/t_poster2.61eff23c6eaf45e992a4.jpg",
@@ -11,10 +11,10 @@
     "static/media/t_poster.jpg": "/Movie_Club/static/media/t_poster.6a0678f9e6557992ee11.jpg",
     "index.html": "/Movie_Club/index.html",
     "main.eebdbaf2.css.map": "/Movie_Club/static/css/main.eebdbaf2.css.map",
-    "main.139a4eea.js.map": "/Movie_Club/static/js/main.139a4eea.js.map"
+    "main.ec5aa6a9.js.map": "/Movie_Club/static/js/main.ec5aa6a9.js.map"
   },
   "entrypoints": [
     "static/css/main.eebdbaf2.css",
-    "static/js/main.139a4eea.js"
+    "static/js/main.ec5aa6a9.js"
   ]
 }
