@@ -22,7 +22,7 @@ export default function Header() {
                     <Navbar key={expand} bg="light" expand={expand} className=" bg-dark">
                         <Container >
                             <Navbar.Brand className='' href="#">
-                                <img style={{ height: '65px', marginTop: '7px', width: '120px' }} className='img-fluid' src='/img/MOVIECLUBLOGO.png' />
+                                <img style={{ height: '65px', marginTop: '7px', width: '120px' }} className='img-fluid' src='./img/MOVIECLUBLOGO.png' />
                             </Navbar.Brand>
                             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
                             <Navbar.Offcanvas
