@@ -1,12 +1,23 @@
-.Header_Nav {
-    background: rgba(0, 0, 0, 0.8);
-    padding: 15px 0px 15px 0px;
+.Header_Top {
+    color: #FFF;
+    width: 100%;
+    /* margin-bottom: 5px; */
 }
 
 nav {
-    height: 100px;
-    padding: 15px;
 
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.12), 0px 8px 32px rgba(0, 0, 0, 0.08) !important;
+    background: #222 !important;
+    margin-top: 25px;
+    margin-bottom: 20px;
+
+
+}
+
+nav input {
+    border: none !important;
 }
 
 .navbar-toggler {
@@ -14,20 +25,56 @@ nav {
     background: #CCC !important;
 }
 
-.navbar-brand {
-    color: #FFF !important;
-    margin-left: 15px;
-    margin-top: -10px;
-}
-
 .nav-link {
-    color: #FFF !important;
-    font-size: 19.6px !important;
-    font-weight:400;      
+
+    font-size: 21px !important;
+    font-weight: 500;
+    margin-left: 20px;
 }
 
 svg {
     /* margin-top: 25px; */
     margin-left: 5px;
     margin-top: -6px;
+}
+
+.Login_Btn {
+    font-family: 'MyWebFont' !important;
+    font-weight: 600 !important;
+    color: #FFF !important;
+
+}
+
+.Register_Btn {
+    font-family: 'MyWebFont' !important;
+    font-weight: 600 !important;
+    color: #FFF !important;
+}
+
+.Search {
+    z-index: 10;
+    position: relative;
+
+}
+
+.Result_Search {
+    position: absolute;
+
+    width: 100%;
+    background-color: #222 !important;
+    z-index: 25;
+    top: 110%;
+    color: #FFF;
+    border-radius: 15px;
+    padding: 10px;
+    display: none;
+}
+
+input ::placeholder {
+    color: #FFF !important;
+}
+
+a {
+    color: #FFF !important;
+    text-decoration: none !important;
 }

@@ -60,16 +60,16 @@ export default function InfoMovie({ children }) {
                     <Col className='mt-5 gallery_Pic' lg={7} md={6} xs={12} sm={12} >
                         <Row>
                             <Col lg={6} md={6} xs={6} sm={6}>
-                                <img src='/img/Capture.PNG' />
+                                <img src='./img/Capture.PNG' />
                             </Col>
                             <Col lg={6} md={6} xs={6} sm={6} >
-                                <img src='/img/Capture2.PNG' />
+                                <img src='./img/Capture2.PNG' />
                             </Col>
                             <Col lg={6} md={6} xs={6} sm={6} >
-                                <img src='/img/Capture3.PNG' />
+                                <img src='./img/Capture3.PNG' />
                             </Col>
                             <Col lg={6} md={6} xs={6} sm={6} >
-                                <img src='/img/Capture4.PNG' />
+                                <img src='./img/Capture4.PNG' />
                             </Col>
                         </Row>
                     </Col>

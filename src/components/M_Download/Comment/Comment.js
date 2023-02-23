@@ -7,12 +7,12 @@ import { ImForward } from 'react-icons/im';
 
 export default function Comment() {
     let [Avatars, SetAvatars] = useState([
-        { name: 'Boy1', src: '/img/avatar/boy_2.png' },
-        { name: 'Boy2', src: '/img/avatar/boy_3.png' },
-        { name: 'Boy3', src: '/img/avatar/boy_4.png' },
-        { name: 'Girl1', src: '/img/avatar/girl_3.jpg' },
-        { name: 'Girl2', src: '/img/avatar/girl_2.png' },
-        { name: 'Girl3', src: '/img/avatar/girl_1.jpg' }
+        { name: 'Boy1', src: './img/avatar/boy_2.png' },
+        { name: 'Boy2', src: './img/avatar/boy_3.png' },
+        { name: 'Boy3', src: './img/avatar/boy_4.png' },
+        { name: 'Girl1', src: './img/avatar/girl_3.jpg' },
+        { name: 'Girl2', src: './img/avatar/girl_2.png' },
+        { name: 'Girl3', src: './img/avatar/girl_1.jpg' }
     ])
     return (
         <div className='row section_Comment mt-5' style={{ color: 'white' }}>

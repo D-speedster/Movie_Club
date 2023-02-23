@@ -34,7 +34,7 @@ export default function Suggestion() {
                     <SwiperSlide style={{borderRadius:'15px' }}>
                         <Card style={{ backgroundColor: '#333' }}>
                             <Card.Header >
-                                <img src='/img/poster6.png' />
+                                <img src='./img/poster6.png' />
                             </Card.Header>
                             <Card.Body>
                                 <p style={{ color: 'white' }}>Avenger Infinity War</p>
@@ -44,7 +44,7 @@ export default function Suggestion() {
                     <SwiperSlide style={{borderRadius:'15px' }}>
                         <Card style={{ backgroundColor: '#333' }}>
                             <Card.Header >
-                                <img src='/img/poster2.png' />
+                                <img src='./img/poster2.png' />
                             </Card.Header>
                             <Card.Body>
                                 <p style={{ color: 'white' }}>Avenger Infinity War</p>
@@ -54,7 +54,7 @@ export default function Suggestion() {
                     <SwiperSlide style={{borderRadius: '15px' }}>
                         <Card style={{ backgroundColor: '#333' }}>
                             <Card.Header >
-                                <img src='/img/poster3.png' />
+                                <img src='./img/poster3.png' />
                             </Card.Header>
                             <Card.Body>
                                 <p style={{ color: 'white' }}>Avenger Infinity War</p>
@@ -64,7 +64,7 @@ export default function Suggestion() {
                     <SwiperSlide style={{borderRadius: '15px' }}>
                         <Card style={{ backgroundColor: '#333' }}>
                             <Card.Header >
-                                <img src='/img/poster4.png' />
+                                <img src='./img/poster4.png' />
                             </Card.Header>
                             <Card.Body>
                                 <p style={{ color: 'white' }}>Avenger Infinity War</p>
@@ -74,7 +74,7 @@ export default function Suggestion() {
                     <SwiperSlide style={{borderRadius: '15px' }}>
                         <Card style={{ backgroundColor: '#333' }}>
                             <Card.Header >
-                                <img src='/img/poster5.png' />
+                                <img src='./img/poster5.png' />
                             </Card.Header>
                             <Card.Body>
                                 <p style={{ color: 'white' }}>Avenger Infinity War</p>
@@ -84,7 +84,7 @@ export default function Suggestion() {
                     <SwiperSlide style={{borderRadius: '15px' }}>
                         <Card style={{ backgroundColor: '#333' }}>
                             <Card.Header >
-                                <img src='/img/poster5.png' />
+                                <img src='./img/poster5.png' />
                             </Card.Header>
                             <Card.Body>
                                 <p style={{ color: 'white' }}>Avenger Infinity War</p>

@@ -4,7 +4,7 @@ import './Boxoffice.css';
 export default function Boxoffice(props) {
     return (
         <div className='BoxOffice'>
-            <div>
+            <Container>
                 <h4 className='mt-2'>فروش هفتگی سینمای جهان</h4>
                 <Row className='justify-content-start'>
                     {Object.entries(props).map(item => (
@@ -29,7 +29,7 @@ export default function Boxoffice(props) {
                     ))}
 
                 </Row>
-            </div>
+            </Container>
         </div>
     )
 }
